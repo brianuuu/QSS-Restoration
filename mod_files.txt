@@ -1,3 +1,4 @@
 add QSSRestoration.dll
+add Codes.hmm
 add mod.ini
 add README.txt

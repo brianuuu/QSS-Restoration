@@ -1,5 +1,5 @@
 ---------------------------Sonic Generations Mod--------------------------
-----------------------------QSS Restoration v1.0--------------------------
+----------------------------QSS Restoration v1.1--------------------------
 
 This is a mod for Sonic Generations that recreates QSS (Quick Step Slide and Quick Stomp Slide) glitch from Sonic Unleashed.
 
@@ -13,6 +13,9 @@ Mod Usage
 ------------------------------------------------------------
 Change Log
 ------------------------------------------------------------
+v1.1
+-Reduced speed increase from 15 to 12
+-Updated Unleashed Style Stomp code
 
 ------------------------------------------------------------
 Credits
